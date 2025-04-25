@@ -1,0 +1,2 @@
+# hateguard-frontend-public
+ 
